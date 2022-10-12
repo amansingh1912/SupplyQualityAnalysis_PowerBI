@@ -1,4 +1,5 @@
 # Supply Quality Analysis in Power BI
+## [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDgwZWQ0YTEtYjcwMi00NDAyLWJhMDAtZGMzZDU1NTI4NTA0IiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
 
 This data is taken from the previous data challenge regarding Supply Quality of various products delivered to Enterprise Manufacturers Ltd. 
 
